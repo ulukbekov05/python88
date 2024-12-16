@@ -1,8 +1,12 @@
-import random
+ffffffffffffffffffffffffffffffff
+ffffffffffff
 
-name=int(input('Томонку диапазон: '))
-name1=int(input('Жогорку диапазон: '))
 
+dddsffa
+fsd
+fasdf
+sd
+f
 
 num = random.randint(name,name1)
 men=0
